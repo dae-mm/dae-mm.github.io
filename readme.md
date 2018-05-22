@@ -74,7 +74,7 @@ Construct your modules and test every new function as you build it.
 
 
 Project Location:
-https://github.com/thinkful-ei21/damian_bookmarks_app.git
+https://github.com/dae-mm/dae-mm.github.io
 
 Wireframe of page layout in default view, expanded view, and add bookmark view:
 https://wireframepro.mockflow.com/view/M0f376b2b728be06b6a091bacd73dc3061526500310572
