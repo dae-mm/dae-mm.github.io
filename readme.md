@@ -72,11 +72,4 @@ Review the API Documention. Perform some test requests with Postman.
 
 Construct your modules and test every new function as you build it.
 
-Specs URL:
-https://github.com/rich-at-thinkful/ft-curric-gists/blob/master/fundamentals/build-bookmarks-app.md
 
-Project Location:
-https://github.com/thinkful-ei21/albert-bookmarks-app.git
-
-Wireframe of page layout in default view, expanded view, and add bookmark view:
-https://wireframepro.mockflow.com/view/M2e94af7e756fd8d30b0e9e422abb89011526502893975#/page/da15e27a3bf34e5c859f0685952470af
