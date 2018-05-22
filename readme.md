@@ -76,7 +76,7 @@ Specs URL:
 https://github.com/rich-at-thinkful/ft-curric-gists/blob/master/fundamentals/build-bookmarks-app.md
 
 Project Location:
-https://github.com/thinkful-ei21/albert-bookmarks-app.git
+https://github.com/thinkful-ei21/damian_bookmarks_app.git
 
 Wireframe of page layout in default view, expanded view, and add bookmark view:
-https://wireframepro.mockflow.com/view/M2e94af7e756fd8d30b0e9e422abb89011526502893975#/page/da15e27a3bf34e5c859f0685952470af
+https://wireframepro.mockflow.com/view/M0f376b2b728be06b6a091bacd73dc3061526500310572
